@@ -24,17 +24,19 @@ Detailed probelm statement can be found on [Reddit](https://www.reddit.com/r/ask
 
 Below is logical probablity. However, it was suggested to use probabilitisc model: 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/24961188/161692670-63b4902d-fa3f-4c54-9de7-58c427e1794b.png)
 
 
 
 Suggestion from Reddit: 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/24961188/161692723-9b116148-8f6a-4b7d-b1e1-9c67f396c005.png)
+
 
 [Data Source of Ratios](https://www1.nseindia.com/products/content/equities/equities/eq_security.htm)
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/24961188/161692768-c6b1b010-37a4-4704-9299-f8b288b6a380.png)
+
 
 
 ```python
